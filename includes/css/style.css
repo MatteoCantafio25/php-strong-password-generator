@@ -17,3 +17,16 @@ input{
 .wrapper{
     width: 700px;
 }
+
+.form-container{
+    background-color: white;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+form {
+    padding: 30px;
+}
+
+
+
