@@ -1,0 +1,19 @@
+body{
+    background-color: #001632;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+h1{
+    color: #808B9A;
+}
+
+input{
+    max-width: 200px;
+}
+
+.wrapper{
+    width: 700px;
+}
